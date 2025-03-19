@@ -1,13 +1,7 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=box-hippopotamus&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 # Hi there 👋 我是 盒马盒马
 
 🎮 **代码与创意的焊接工** | 🚀 **C++ 后端核心玩家**  
 ✨ 擅长用高效代码构建稳定服务，偶尔在前端世界画个「龙」~
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Correia-jpv/fucking-awesome-chatgpt-prompts/main/src/assets/chatgpt-robo.png" width="200px" alt="卡通机器人插图">
-</div>
 
 ## 🛠️ 技术武装
 ![C++](https://img.shields.io/badge/C++-Expert-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
@@ -27,7 +21,7 @@
 ---
 
 📚 **技术博客**: [CSDN](https://blog.csdn.net/fsdfafsdsd)  
-🌐 **个人网站**: [Portfolio](https://async-area.com/)  
+🌐 **个人网站**: [async-area](https://async-area.com/)  
 📧 **联系我**: 微信 h83995251
 
 [![Visits](https://komarev.com/ghpvc/?username=box-hippopotamus&color=blueviolet)](https://github.com/box-hippopotamus)
