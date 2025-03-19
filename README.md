@@ -1,7 +1,13 @@
-# Hi there 👋 我是 盒马盒马
+# Hi 👋 我是 盒马盒马
 
-🎮 **C++ 后端探险家** | 🚀 **技术博客新星创作者**  
-✨ 河北师范大学软件工程专业 | CSDN C/C++领域新星博主 
+| 🎮 **C++ 后端探险家** | 🚀 **技术博客新星创作者**  |
+|-|-|
+| ✨ 河北师范大学软件工程专业 | CSDN C/C++领域新星博主 |
+
+## 📚 技术沉淀
+|**CSDN 博客** | 200+ 篇技术文章, 27W+ 访问 | [CSDN](https://box-he.blog.csdn.net) |
+|-|-|-|
+|**个人网站** | 技术笔记 & 项目归档  |[AsyncArea](https://async-area.com)  |
 
 ## 🛠️ 技术武装
 ![C++](https://img.shields.io/badge/C++-Expert-00599C?logo=cplusplus&logoColor=white)
@@ -17,13 +23,13 @@
 ![CMake](https://img.shields.io/badge/Build-CMake-064F8C?logo=cmake)
 
 ## 📊 数据看板
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=box-hippopotamus&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/box-hippopotamus)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=box-hippopotamus&layout=compact&theme=radical&hide_border=true)](https://github.com/box-hippopotamus)
+| 统计 | 语言 |
+| - | - |
+|[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=box-hippopotamus&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/box-hippopotamus) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=box-hippopotamus&layout=compact&theme=radical&hide_border=true)](https://github.com/box-hippopotamus) |
 
-## 📚 技术沉淀
-- **CSDN 博客**: 200+ 篇技术文章 | 27W+ 访问 | [C/C++新星博主](https://box-he.blog.csdn.net)  
-- **个人网站**: [AsyncArea](https://async-area.com) | 技术笔记 & 项目归档  
-
-📧 **联系我**: 微信 `h83995251` | 邮箱 `2353151024@qq.com`  
+📧 **联系我**: 
 [![Gitee](https://img.shields.io/badge/Gitee-盒马盒马-C71D23?logo=gitee)](https://gitee.com/box-he-he)
-[![Visits](https://komarev.com/ghpvc/?username=box-hippopotamus&color=blueviolet)](https://github.com/box-hippopotamus)
+[![github](https://komarev.com/ghpvc/?username=box-hippopotamus&color=blueviolet)](https://github.com/box-hippopotamus)
+- 微信 `h83995251` 
+- 邮箱 `2353151024@qq.com`  
+
