@@ -6,7 +6,7 @@
 ---
 
 ## 🛠️ 技术武装
-![C++](https://img.shields.io/badge/C++-Expert-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-Expert-00599C?logo=cplusplus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-System_Programming-FCC624?logo=linux)
 ![Redis](https://img.shields.io/badge/Redis-7.0-DC382D?logo=redis)
 ![Docker](https://img.shields.io/badge/Docker-24.0-2496ED?logo=docker)
