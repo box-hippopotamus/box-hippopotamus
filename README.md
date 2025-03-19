@@ -24,19 +24,10 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/yourname)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=radical&hide_border=true)](https://github.com/yourname)
 
-## 🌟 代表作
-### [项目名称](https://example.com)  
-> 基于 C++ 的高性能分布式框架 | 支持微服务通信与负载均衡  
-> **技术突破**：零拷贝数据传输、QPS 提升 300%  
-
-### [Web 控制台](https://example.com)  
-> Vue3 + Node.js 实现的运维管理系统 | 支持实时监控与自动化部署  
-> **亮点**：WebSocket 双向通信、ECharts 数据可视化  
-
 ---
 
-📚 **技术博客**: [CSDN](https://example.com)  
-🌐 **个人网站**: [Portfolio](https://example.com)  
+📚 **技术博客**: [CSDN](https://blog.csdn.net/fsdfafsdsd)  
+🌐 **个人网站**: [Portfolio](https://async-area.com/)  
 📧 **联系我**: yourname@example.com  
 
 [![Visits](https://komarev.com/ghpvc/?username=yourname&color=blueviolet)](https://github.com/yourname)
