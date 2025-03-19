@@ -1,11 +1,7 @@
 # Hi there 👋 我是 盒马盒马
 
-🎮 **C++ 后端极客** | 🚀 **技术博客新星创作者**  
+🎮 **C++ 后端探险家** | 🚀 **技术博客新星创作者**  
 ✨ 河北师范大学软件工程专业 | CSDN C/C++领域新星博主 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Correia-jpv/fucking-awesome-chatgpt-prompts/main/src/assets/chatgpt-robo.png" width="200px" alt="技术探险家">
-</div>
 
 ---
 
@@ -25,19 +21,6 @@
 ## 📊 数据看板
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=box-hippopotamus&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/box-hippopotamus)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=box-hippopotamus&layout=compact&theme=radical&hide_border=true)](https://github.com/box-hippopotamus)
-
----
-
-## 🌟 代表作
-### [Json-RPC 框架](https://gitee.com/box-he-he)  
-> **高性能分布式通信框架** | 服务注册发现 + 同步/异步调用  
-> ✅ 支持 UUID 请求映射 | ✅ 动态负载均衡 | ✅ 发布订阅系统  
-> **技术栈**: C++11、muduo 网络库、Future/Promise 异步模型  
-
-### [Boost 搜索引擎](https://gitee.com/box-he-he)  
-> **Boost 文档全文检索系统** | 倒排索引 + HTTP 服务  
-> ✅ HTML 解析状态机 | ✅ 分词权重排序 | ✅ JSON 结果返回  
-> **技术栈**: C++11、cppjieba、cpp-httplib、Boost 文件系统  
 
 ---
 
