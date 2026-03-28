@@ -36,10 +36,4 @@
 
 ## 📊 开发概览
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=box-hippopotamus&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=box-hippopotamus&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-</div>
-
-
 🔗 [GitHub](https://github.com/box-hippopotamus) · 🌐 [AsyncArea](https://async-area.com)
